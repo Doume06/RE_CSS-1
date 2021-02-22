@@ -1,4 +1,4 @@
-/* Reset */
+/* Reset doume */
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td { margin: 0; padding: 0; }
 table { border-collapse: collapse; border-spacing: 0; }
 fieldset, img { border: 0; }
@@ -17,7 +17,7 @@ body { background-color: #fff; color: #000; font-family: 'Fira Sans', sans-serif
 h1, h2, h3, h4, h5, h6, table, p, #sommaire, div.note, div.jqplot-target { margin-bottom: 32px; }
 table table, table div.jqplot-target { margin-bottom: 0; }
 
-/* En-tête */
+/* En-tÃªte */
 #logo { width: 200px; }
 #entete h1 { font-size: 26px; font-weight: 800; margin-bottom: 16px; }
 #entete h2 { font-size: 18px; font-style: italic;  }
@@ -74,7 +74,7 @@ table.position td.left, table.position td.right { vertical-align: top; width: 50
 table.position td.left { padding-right: 16px; }
 table.position td.right { padding-left: 16px; text-align: right; }
 
-/* pour affiche les données complémentaires - debug */
+/* pour affiche les donnÃ©es complÃ©mentaires - debug */
 table tr td.DC {background-color:#8AC2E3;}
 
 /* batiment */
